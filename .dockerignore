@@ -1,0 +1,10 @@
+node_modules
+dist
+.git
+.env
+.env.local
+data
+__pycache__
+*.pyc
+.pytest_cache
+public/assets/aistudio

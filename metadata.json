@@ -1,0 +1,6 @@
+{
+  "name": "ResumeRank",
+  "description": "AI-Based Resume Matching & Candidate Ranking System with semantic skill matching, explainable scoring, and batch PDF/DOCX screening.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

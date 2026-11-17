@@ -1,0 +1,51 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 850 >>
+stream
+BT
+/F1 11 Tf
+50 760 Td
+15 TL
+(Rohan Gupta) Tj
+T* (Email: rohan.gupta@example.com | Phone: +91-98112-33901) Tj
+T* (Summary: Software Engineer with 3.5 years experience in Python backend engineering and relational databases.) Tj
+T* () Tj
+T* (Skills: Python, PostgreSQL, RESTful services, Flask, SQL, Redis, Git) Tj
+T* () Tj
+T* (Work Experience:) Tj
+T* (Backend Engineer, MetricFlow Analytics \(May 2023 - Nov 2026\)) Tj
+T* (- Implemented REST APIs in Python and Flask connected to PostgreSQL analytics clusters.) Tj
+T* (- Tuned SQL reporting pipelines and built Redis caching for dashboard endpoints.) Tj
+T* (Junior Developer, ByteWorks Studio \(Nov 2021 - Apr 2023\)) Tj
+T* (- Maintained backend services in Python and SQLite/Postgres.) Tj
+T* () Tj
+T* (Education:) Tj
+T* (B.Tech, Computer Science, Delhi Technological University \(2017 - 2021\)) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1212
+%%EOF

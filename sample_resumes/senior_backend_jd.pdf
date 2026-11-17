@@ -1,0 +1,47 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 659 >>
+stream
+BT
+/F1 11 Tf
+50 760 Td
+15 TL
+(Senior Backend Developer) Tj
+T* (Location: Remote / Hybrid) Tj
+T* () Tj
+T* (We need 4+ years building REST APIs with Python and FastAPI, PostgreSQL, Docker and CI/CD.) Tj
+T* (React is a plus. B.Tech in Computer Science or equivalent.) Tj
+T* () Tj
+T* (Responsibilities:) Tj
+T* (- Design, build, and scale high-throughput RESTful services using Python and FastAPI.) Tj
+T* (- Architect PostgreSQL schemas, optimize queries, and manage migrations.) Tj
+T* (- Containerize microservices with Docker and maintain automated CI/CD pipelines.) Tj
+T* (- Collaborate with frontend engineers using React when integrating API contracts.) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1021
+%%EOF

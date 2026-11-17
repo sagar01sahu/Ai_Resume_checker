@@ -1,0 +1,37 @@
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: resumerank-postgres
+    environment:
+      POSTGRES_USER: resume_ranker
+      POSTGRES_PASSWORD: resume_ranker
+      POSTGRES_DB: resume_ranker
+    ports:
+      - "5433:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U resume_ranker -d resume_ranker"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: resumerank-app
+    depends_on:
+      db:
+        condition: service_healthy
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_URL: postgresql+psycopg://resume_ranker:resume_ranker@db:5432/resume_ranker
+      LLM_PROVIDER: gemini
+      GEMINI_API_KEY: ${GEMINI_API_KEY:-}
+      EMBEDDING_MODEL: all-MiniLM-L6-v2
+      PORT: 8000
+
+volumes:
+  pgdata:

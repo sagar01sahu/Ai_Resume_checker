@@ -1,0 +1,11 @@
+Senior Backend Developer
+Location: Remote / Hybrid
+
+We need 4+ years building REST APIs with Python and FastAPI, PostgreSQL, Docker and CI/CD.
+React is a plus. B.Tech in Computer Science or equivalent.
+
+Responsibilities:
+- Design, build, and scale high-throughput RESTful services using Python and FastAPI.
+- Architect PostgreSQL schemas, optimize queries, and manage migrations.
+- Containerize microservices with Docker and maintain automated CI/CD pipelines.
+- Collaborate with frontend engineers using React when integrating API contracts.
