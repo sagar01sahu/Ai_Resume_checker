@@ -3,7 +3,7 @@ dist
 .git
 .env
 .env.local
-data
+/data
 __pycache__
 *.pyc
 .pytest_cache
