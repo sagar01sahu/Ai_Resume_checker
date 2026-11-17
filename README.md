@@ -238,9 +238,7 @@ The app is deployed on **Railway** as a Docker service with a managed PostgreSQL
 - Experience is estimated from date ranges found in the text, so unusual date formats may be missed.
 - On a free hosting tier the first request after idle time can be slow.
 
-## 12. Screenshots
 
-`[ADD 3-4 SCREENSHOTS: setup, ranking dashboard, candidate detail, scoring weights]`
 
 ---
 
