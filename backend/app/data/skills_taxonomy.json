@@ -1,0 +1,154 @@
+{
+  "skills": [
+    {
+      "canonical": "Python",
+      "category": "Languages",
+      "aliases": ["python", "python3", "python 3", "py"]
+    },
+    {
+      "canonical": "FastAPI",
+      "category": "Backend Frameworks",
+      "aliases": ["fastapi", "fast api", "starlette"]
+    },
+    {
+      "canonical": "PostgreSQL",
+      "category": "Databases",
+      "aliases": ["postgresql", "postgres", "psql", "pgvector", "psycopg", "psycopg2", "asyncpg"]
+    },
+    {
+      "canonical": "REST APIs",
+      "category": "Architecture & Protocols",
+      "aliases": ["rest apis", "rest api", "restful services", "restful apis", "restful api", "rest", "openapi", "swagger"]
+    },
+    {
+      "canonical": "Docker",
+      "category": "DevOps & Containers",
+      "aliases": ["docker", "dockerfile", "docker compose", "docker-compose", "containerization", "containers"]
+    },
+    {
+      "canonical": "CI/CD",
+      "category": "DevOps & Containers",
+      "aliases": ["ci/cd", "cicd", "ci cd", "continuous integration", "continuous deployment", "github actions", "gitlab ci", "jenkins", "circleci"]
+    },
+    {
+      "canonical": "React",
+      "category": "Frontend",
+      "aliases": ["react", "reactjs", "react.js", "react 18", "react 19", "next.js", "nextjs"]
+    },
+    {
+      "canonical": "TypeScript",
+      "category": "Languages",
+      "aliases": ["typescript", "ts", "tsx"]
+    },
+    {
+      "canonical": "JavaScript",
+      "category": "Languages",
+      "aliases": ["javascript", "js", "es6", "ecmascript", "node.js", "nodejs"]
+    },
+    {
+      "canonical": "Django",
+      "category": "Backend Frameworks",
+      "aliases": ["django", "django rest framework", "drf"]
+    },
+    {
+      "canonical": "Flask",
+      "category": "Backend Frameworks",
+      "aliases": ["flask", "werkzeug"]
+    },
+    {
+      "canonical": "SQLAlchemy",
+      "category": "Databases",
+      "aliases": ["sqlalchemy", "alembic", "orm"]
+    },
+    {
+      "canonical": "Redis",
+      "category": "Databases",
+      "aliases": ["redis", "celery", "caching", "in-memory cache"]
+    },
+    {
+      "canonical": "Kubernetes",
+      "category": "DevOps & Containers",
+      "aliases": ["kubernetes", "k8s", "helm", "eks", "gke"]
+    },
+    {
+      "canonical": "AWS",
+      "category": "Cloud",
+      "aliases": ["aws", "amazon web services", "ec2", "s3", "rds", "lambda", "ecs"]
+    },
+    {
+      "canonical": "GCP",
+      "category": "Cloud",
+      "aliases": ["gcp", "google cloud", "cloud run", "cloud sql"]
+    },
+    {
+      "canonical": "Git",
+      "category": "Tools",
+      "aliases": ["git", "github", "gitlab", "bitbucket"]
+    },
+    {
+      "canonical": "Linux",
+      "category": "Systems",
+      "aliases": ["linux", "ubuntu", "debian", "bash", "shell scripting"]
+    },
+    {
+      "canonical": "Microservices",
+      "category": "Architecture & Protocols",
+      "aliases": ["microservices", "distributed systems", "service-oriented architecture", "event-driven architecture"]
+    },
+    {
+      "canonical": "GraphQL",
+      "category": "Architecture & Protocols",
+      "aliases": ["graphql", "apollo", "strawberry"]
+    },
+    {
+      "canonical": "MongoDB",
+      "category": "Databases",
+      "aliases": ["mongodb", "mongo", "nosql"]
+    },
+    {
+      "canonical": "MySQL",
+      "category": "Databases",
+      "aliases": ["mysql", "mariadb"]
+    },
+    {
+      "canonical": "SQL",
+      "category": "Databases",
+      "aliases": ["sql", "relational database", "rdbms", "stored procedures", "query optimization"]
+    },
+    {
+      "canonical": "Pytest",
+      "category": "Testing",
+      "aliases": ["pytest", "unittest", "unit testing", "integration testing", "tdd"]
+    },
+    {
+      "canonical": "Tailwind CSS",
+      "category": "Frontend",
+      "aliases": ["tailwind", "tailwind css", "tailwindcss"]
+    },
+    {
+      "canonical": "Java",
+      "category": "Languages",
+      "aliases": ["java", "spring", "spring boot"]
+    },
+    {
+      "canonical": "Go",
+      "category": "Languages",
+      "aliases": ["golang", "go language", "gin"]
+    },
+    {
+      "canonical": "Kafka",
+      "category": "Architecture & Protocols",
+      "aliases": ["kafka", "rabbitmq", "message queue", "apache kafka"]
+    },
+    {
+      "canonical": "Terraform",
+      "category": "DevOps & Containers",
+      "aliases": ["terraform", "infrastructure as code", "iac"]
+    },
+    {
+      "canonical": "Machine Learning",
+      "category": "AI & Data",
+      "aliases": ["machine learning", "nlp", "spacy", "sentence-transformers", "scikit-learn", "pytorch"]
+    }
+  ]
+}
